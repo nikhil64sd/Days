@@ -41,7 +41,7 @@ console.log(cities.slice(1,-2))
 // console.log(fruits)
 
 
-
+console.log("I am currently on A")
 
 
 
