@@ -1,57 +1,57 @@
 
-// print a varible with arithmetic operations
+//print a varible with arithmetic operations
 
-// let t=6
-//     y=3
+let t=6
+    y=3
 
-// console.log(t-y)     //  11
-// console.log(t+y)     //   123
-// console.log(t*y)     //    3752
-// console.log(t/y)     //   1.196
-// console.log(t%y)     // 37.56
+console.log(t-y)     //  11
+console.log(t+y)     //   123
+console.log(t*y)     //    3752
+console.log(t/y)     //   1.196
+console.log(t%y)     // 37.56
 
-// program with operations by passing multiple parameters
+//program with operations by passing multiple parameters
 
-// function operations(w,z){
+function operations(w,z){
 
-//   console.log(w+z)
-//   console.log(w-z)
-//   console.log(w*z)
-//   console.log(w/z)
+  console.log(w+z)
+  console.log(w-z)
+  console.log(w*z)
+  console.log(w/z)
 
-// }
-// operations(5,6)
-// // operations(2,2)
+}
+operations(5,6)
+// operations(2,2)
+
+//function without parameter and without return type
+
+  function repeat(){
+    console.log(3+4)
+    console.log(3-4)
+  }
+
+repeat()
+repeat()
+repeat()
+
+//function with parameter and without return type
+function sat(x,y){
+    console.log(x+y)
+}
+sat(2,2)
+sat(4,4)
+sat(5,5)
+
 
 // function without parameter and without return type
+function kat(){
+    console.log(4+4)
+}
+kat()
+kat()
+kat()
 
-//   function repeat(){
-//     console.log(3+4)
-//     console.log(3-4)
-//   }
-
-// repeat()
-// repeat()
-// repeat()
-
-// function with parameter and without return type
-// function sat(x,y){
-//     console.log(x+y)
-// }
-// sat(2,2)
-// sat(4,4)
-// sat(5,5)
-
-
-// // function without parameter and without return type
-// function kat(){
-//     console.log(4+4)
-// }
-// kat()
-// kat()
-// kat()
-
-// function with parameter and with return type
+//function with parameter and with return type
 
 
 function sum(x,y){

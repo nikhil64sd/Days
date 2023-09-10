@@ -41,7 +41,14 @@ console.log(cities.slice(1,-2))
 // console.log(fruits)
 
 
+console.log("I am currently on A")
+console.log("I am a newly added person")
 
+console.log("hi")
+
+console.log("i am a new person")
+
+console.log("i am a new person legally")
 
 
 
