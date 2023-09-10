@@ -44,6 +44,8 @@ console.log(cities.slice(1,-2))
 console.log("I am currently on A")
 console.log("I am a newly added person")
 
+console.log("hi")
+
 
 
 
